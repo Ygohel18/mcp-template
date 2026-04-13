@@ -1,0 +1,14 @@
+{
+	"mcpServers": {
+		"@ygohel18/mcp-template": {
+			"command": "node",
+			"args": [
+				"./dist/index.js"
+			],
+			"env": {
+				"MCP_TRANSPORT": "stdio",
+				"LOG_LEVEL": "info"
+			}
+		}
+	}
+}

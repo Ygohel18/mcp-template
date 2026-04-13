@@ -1,0 +1,17 @@
+node_modules
+dist
+.env
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.DS_Store
+Thumbs.db
+*.js.map
+*.d.ts.map
+coverage
+.vscode
+.idea
+.npm
+.eslintcache
